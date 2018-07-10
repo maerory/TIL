@@ -1,4 +1,4 @@
-## 20170707 Today I learned
+## 20180707 Today I learned
 
 ### Using Heroku - the basics (Getting started with heroku ruby ver.)
 
