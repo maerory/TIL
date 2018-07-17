@@ -82,7 +82,7 @@ Required Gems : pusher, figaro, devise
    
    def user_admit_room # Make another function on the controller that uses model function to admit users to the room
        # 현재 유저가 있는 방
-       @chat_room.user_admit_room(currnet_user)
+       @chat_room.user_admit_room(current_user)
    end
    ```
 
